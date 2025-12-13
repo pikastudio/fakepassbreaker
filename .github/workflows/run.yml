@@ -18,4 +18,4 @@ jobs:
           python-version: '3.x'
 
       - name: Run go_crazy.py
-        run: python go_crazy.py
+        run: python go_crazy!.py
