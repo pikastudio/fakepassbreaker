@@ -6,7 +6,7 @@ It does **not** connect to servers or perform real password cracking — it’s 
 ---
 
 ## ✨ Features
-- Prompts for a fake IP/hostname and username (e.g. `zeke.dpdns.org@root`).
+- Prompts for a fake IP/hostname and username (e.g. `************@*****`).
 - Generates thousands of random "attempts" with counters.
 - Prints each attempt in the format:
 attempt 5000 mcPEYaOOChq
